@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: e8da71def6ff4b343a96b5bbb4912700
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a7fe4684f622bec4aaf4f5981327c4bc
+  - enabled: 1
+    path: Assets/Scenes/Gravitation.unity
+    guid: 2909ee6628b20b04c93a782fcc1b5d59
+  - enabled: 1
+    path: Assets/Scenes/CarPhysics.unity
+    guid: bbf42b4e92ead1b4a9cc2c3e9539776b
+  - enabled: 1
+    path: Assets/Scenes/GravitationTuto.unity
+    guid: d0f49f5b0d187a5498139475c7bc5938
+  m_configObjects: {}
